@@ -1,4 +1,4 @@
 mappings:
- - /content/xsc-xwalk-site/:/
- - /content/xsc-xwalk-site/metadata.json:/metadata.json
- - /content/xsc-xwalk-site/redirects.json:/redirects.json
+ - /content/amartini/amartini-2025-6-5-12-28-12/:/
+ - /content/amartini/amartini-2025-6-5-12-28-12/metadata.json:/metadata.json
+ - /content/amartini/amartini-2025-6-5-12-28-12/redirects.json:/redirects.json
